@@ -71,7 +71,7 @@ The objective of the WebStrike challenge was to:
 
 ## iii) Screenshots
 
-> 📸 Insert the following screenshots in this section:
+> 📸  following screenshots in this section:
 - Wireshark traffic overview
 - HTTP filtered traffic
 - Follow TCP Stream output
