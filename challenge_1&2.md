@@ -77,7 +77,7 @@ The objective of the WebStrike challenge was to:
 - Follow TCP Stream output
 - Identified malicious payload
 
-(Example format)
+
 
 ![Wireshark Overview](screenshots/webstrike_overview.png)
 ![HTTP Analysis](screenshots/webstrike_http.png)
