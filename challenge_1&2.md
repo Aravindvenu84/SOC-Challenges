@@ -179,9 +179,9 @@ The objective of the QRadar101 challenge was to:
 - Log correlation view
 
 
-[QRadar Offense]([WhatsApp Image 2026-02-27 at 10 29 57 AM](https://github.com/user-attachments/assets/9c7b527c-bd5e-4ca8-a112-d203a8066b12)
+[QRadar](https://github.com/user-attachments/assets/9c7b527c-bd5e-4ca8-a112-d203a8066b12)
 
-[Event Correlation](https://github.com/user-attachments/assets/0acb5813-4ceb-4cb4-bd90-f000bee56e31)
+[log analysis](https://github.com/user-attachments/assets/0acb5813-4ceb-4cb4-bd90-f000bee56e31)
 
 
 ---
