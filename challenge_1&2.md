@@ -79,10 +79,10 @@ The objective of the WebStrike challenge was to:
 
 
 
-[Wireshark Overview](<img width="1842" height="938" alt="Screenshot from 2026-02-27 11-38-25" src="https://github.com/user-attachments/assets/d7a3d323-5c3f-4c44-b1f3-418c1fea369d" />
-)
-[HTTP Analysis](<img width="1827" height="894" alt="Screenshot from 2026-02-27 11-43-01" src="https://github.com/user-attachments/assets/74f425e2-c073-4263-9425-8d07d28b72d1" />
-)
+<img width="1842" height="938" alt="Screenshot from 2026-02-27 11-38-25" src="https://github.com/user-attachments/assets/d7a3d323-5c3f-4c44-b1f3-418c1fea369d" />
+
+<img width="1827" height="894" alt="Screenshot from 2026-02-27 11-43-01" src="https://github.com/user-attachments/assets/74f425e2-c073-4263-9425-8d07d28b72d1" />
+
 
 ---
 
